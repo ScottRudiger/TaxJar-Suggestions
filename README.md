@@ -1,3 +1,5 @@
+<img src=image.png>
+
 # Suggestions to Improve TaxJar Assets
 
 Hello to anyone from TaxJar who has made their way to viewing this! 👋
