@@ -159,11 +159,27 @@ JSON.parse(res).summary_rates.find(({country_code, region_code}) => country_code
 
   - When sending a request from a basic plan (and not TaxJar Plus),
 
-    - send a `403` - Forbidden or `401` - Not Authorized error code
+    - ~~send a `403` - Forbidden or `401` - Not Authorized error code~~
 
-    - rather than a `500` - Internal Server Error error code.
+    - ~~rather than a `500` - Internal Server Error error code.~~
 
-  - See issue [#1](https://github.com/ScottRudiger/TaxJar-Suggestions/issues/1); this is related to Postman usage and not the API itself.
+    - See issue [#1](https://github.com/ScottRudiger/TaxJar-Suggestions/issues/1); this is related to Postman usage and not the API itself.
+
+    - Respond with the following to be consistent with the attributes provided by other errors sent by the API:
+    ```json
+    {
+      "error": "Not Authorized",
+      "detail": "Upgrade to Plus to use this feature",
+      "status": "401"
+    }
+    ```
+    - rather than:
+    ```json
+    {
+      "errors": "Not Authorized",
+      "body": "Upgrade to Plus to use this feature"
+    }
+    ```
 
 ### Typos 😱
 
