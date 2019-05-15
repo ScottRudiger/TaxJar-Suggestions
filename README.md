@@ -233,6 +233,12 @@ JSON.parse(res).summary_rates.find(({country_code, region_code}) => country_code
 
   - [ ] "For the purposes of this blog post, we are going to focus on [-focus on] digital products […]."
 
+- https://life.taxjar.com/best-deal-never-made/
+
+  - [ ] "[...] put ou[r] customers above everything else [...]."
+
+  - [ ] "[...] employ[-ee] dozens of people on a distributed team [...]."
+
 - https://www.taxjar.com/autofile/
 
   - "What do I need to enroll in AutoFile?"
