@@ -233,6 +233,22 @@ JSON.parse(res).summary_rates.find(({country_code, region_code}) => country_code
 
   - [ ] "For the purposes of this blog post, we are going to focus on [-focus on] digital products […]."
 
+- https://blog.taxjar.com/streamlined-sales-tax-project-what-is-it-and-how-does-it-affect-your-business/
+
+  - [ ] "The efforts of s[t]ates to collect tax on these out-of-state sellers [...]."
+
+  - [ ] "[...] and a uniform tax registration number that is [us]ed to file returns in the member states."
+
+  - [ ] "[...] if they agreed to register in [-register in] all of the member states and remain registered for a period of 36 months."
+
+  - [ ] "[...] uniformity with [-a] the model code of the SSTP."
+
+  - [ ] "However, the SSTP requires that certain administrative provisions be adopted [-will] that impact all businesses."
+
+  - [ ] "In addition, there are special provisions about sales tax holiday[-’]s [...]."
+
+  - [ ] "[...] that the SSTP rules and new statu[t]es are having on tax administrators."
+
 - https://life.taxjar.com/best-deal-never-made/
 
   - [ ] "[...] put ou[r] customers above everything else [...]."
