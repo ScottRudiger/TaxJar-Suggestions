@@ -255,6 +255,10 @@ JSON.parse(res).summary_rates.find(({country_code, region_code}) => country_code
 
   - [ ] "[...] employ[-ee] dozens of people on a distributed team [...]."
 
+- https://life.taxjar.com/moment-changed-everything-taxjar/
+
+  - [ ] "We we[re] starving and had time to kill [...]."
+
 - https://www.taxjar.com/autofile/
 
   - "What do I need to enroll in AutoFile?"
