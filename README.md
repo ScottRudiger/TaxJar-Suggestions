@@ -20,6 +20,15 @@ Feel free to send a pull request to check off any items as they're completed.
 
 ### Website 🌐
 
+
+- https://app.taxjar.com/dashboard
+
+  - [ ] No way to close self-guided tour `appcues` popup in Chrome 74.0.3729.131
+
+  - [ ] Related typo:
+
+    - "Guess what? We'll even give you a FREE AutoFile Credit[space]for completing our demo!"
+
 - https://www.taxjar.com/states/
 
   - [ ] **Update React version** (here and anywhere else React is used) in case any bugfixes or performance improvements apply (perhaps use a tool to automate this; e.g., Greenkeeper or Renovate).
@@ -186,10 +195,6 @@ JSON.parse(res).summary_rates.find(({country_code, region_code}) => country_code
 - https://app.taxjar.com/smartcalcs
 
   - [ ] typo in TaxJar Plus pop-up (Sorry, I can't remember what the exact typo is as the pop-up no longer shows up for me.)
-
-- https://app.taxjar.com/dashboard
-  - [ ] typo in self-guided tour `appcues` popup
-    - "Guess what? We'll even give you a FREE AutoFile Credit[space]for completing our demo!"
 
 - https://www.taxjar.com/amazon-fba-sales-tax/
 
