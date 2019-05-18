@@ -187,6 +187,10 @@ JSON.parse(res).summary_rates.find(({country_code, region_code}) => country_code
 
   - [ ] typo in TaxJar Plus pop-up (Sorry, I can't remember what the exact typo is as the pop-up no longer shows up for me.)
 
+- https://app.taxjar.com/dashboard
+  - [ ] typo in self-guided tour `appcues` popup
+    - "Guess what? We'll even give you a FREE AutoFile Credit[space]for completing our demo!"
+
 - https://www.taxjar.com/amazon-fba-sales-tax/
 
   - [ ] "We give the [-the] exact data you need to be able to file your tax returns much faster than using Excel spreadsheets."
