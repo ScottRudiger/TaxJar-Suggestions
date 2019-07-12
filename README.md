@@ -57,7 +57,7 @@ Feel free to send a pull request to check off any items as they're completed.
 
 - https://www.taxjar.com/states/california-sales-tax-online/#how-to-collect-sales-tax-in-california
 
-  - [ ] "Here’s the [state’s official Sales and Use Tax rates PDF](http://www.boe.ca.gov/pdf/pub71.pdf), also known as Publication 71."
+  - [x] "Here’s the [state’s official Sales and Use Tax rates PDF](http://www.boe.ca.gov/pdf/pub71.pdf), also known as Publication 71."
   
     - It seems the BOE no longer administers the sales/use tax in CA and this link is no longer valid.
     
@@ -67,7 +67,7 @@ Feel free to send a pull request to check off any items as they're completed.
 
 - https://www.taxjar.com/states/california-sales-tax-online/#when-are-california-sales-tax-returns-due
 
-  - [ ] see the [California monthly prepayment due dates here](http://www.boe.ca.gov/sutax/fill_dates.htm).
+  - [x] see the [California monthly prepayment due dates here](http://www.boe.ca.gov/sutax/fill_dates.htm).
 
     - BOE link is no longer valid
 
@@ -88,11 +88,11 @@ Feel free to send a pull request to check off any items as they're completed.
 
 - https://www.taxjar.com/states/california-sales-tax-online/#how-to-file-sales-tax-in-california
 
-  - [ ] "1. File online – [File online at the California Board of Equalization](https://efile.boe.ca.gov/boe/boe_login.jsp)."
+  - [x] "1. File online – [File online at the California Board of Equalization](https://efile.boe.ca.gov/boe/boe_login.jsp)."
 
     - Will want to update this to a CDTFA link when appropriate.
 
-  - [ ] “2. File by mail – You can use [California’s short form sales and use tax return](http://www.boe.ca.gov/pdf/boe401ez.pdf) and file through the mail, […].”
+  - [x] “2. File by mail – You can use [California’s short form sales and use tax return](http://www.boe.ca.gov/pdf/boe401ez.pdf) and file through the mail, […].”
 
     - Update BOE link to https://www.cdtfa.ca.gov/DownloadFile.ashx?path=/formspubs/cdtfa401ez.pdf
 
